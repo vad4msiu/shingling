@@ -1,10 +1,9 @@
 # -*- encoding: utf-8 -*-
-$:.push File.expand_path("../lib", __FILE__)
-require "shingling/version"
+require "version"
 
 Gem::Specification.new do |s|
   s.name        = "shingling"
-  s.version     = Shingling::VERSION
+  s.version     = Resemblance::Shingling::VERSION
   s.authors     = ["vad"]
   s.email       = ["vad4msiu@gmail.com"]
   s.homepage    = ""
