@@ -10,7 +10,7 @@ module Resemblance
       @replace_chars = options[:replace_chars] || {}
     end
 
-    def each_shinglings
+    def each_shingles
       word = ""
       char_flag = false
       shingling = []
