@@ -1,4 +1,4 @@
 source "http://rubygems.org"
 
-# Specify your gem's dependencies in shingle.gemspec
+# Specify your gem's dependencies in shingling.gemspec
 gemspec
