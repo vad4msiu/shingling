@@ -1,6 +1,6 @@
 require "shingling/version"
 
-module Shingling
+module Resemblance
   class Shingling
     def initialize(content = '', options = {})
       @content = content
