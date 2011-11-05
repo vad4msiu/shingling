@@ -1,5 +1,5 @@
 # -*- encoding: utf-8 -*-
-require "version"
+require "./version"
 
 Gem::Specification.new do |s|
   s.name        = "shingling"
